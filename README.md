@@ -15,3 +15,7 @@ This project is a creative canvas-based animation built using React, Tailwind CS
 📸 Inspiration
 
 Inspired by ThirtysixStudio's design-driven motion art, this project focuses on bringing fluid canvas-based animations into a React project.
+
+🔗 Live Demo
+
+https://thirtysix-animation-clone.vercel.app/
